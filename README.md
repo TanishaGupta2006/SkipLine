@@ -1,5 +1,4 @@
 # SkipLine - Smart Canteen 
-## By Devansh Pokhariya
 
 A full-stack mess/canteen ordering system with a prepaid **points wallet**.
 Branded **SkipLine**: _Smart Canteen Management, Without the Queue._
